@@ -1,0 +1,5 @@
+Adicione aqui:
+- imagens/ — telas de configuração, exemplos de anúncios e gráficos
+- audio/ — narrações e dicas práticas
+- videos/ — demonstrações passo‑a‑passo nas plataformas
+- provas/ — exercícios e modelos de relatório e contrato
